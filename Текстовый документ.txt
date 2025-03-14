@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SamalPlast - Изготовление окон и дверей</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 400px;
+            margin: auto;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+            color: #555;
+        }
+        .contact {
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        .phone {
+            color: #007bff;
+            text-decoration: none;
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="card">
+        <h1>SamalPlast</h1>
+        <p>Изготовление окон, дверей и витражей</p>
+        <p class="contact">Телефон: <a class="phone" href="tel:+77082001088">+7 708 200 10 88</a></p>
+    </div>
+</body>
+</html>
